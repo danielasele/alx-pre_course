@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 echo "ALX School is so cool!"
+=======
+<<<<<<< Updated upstream
+echo "ALX school"
+=======
+ALX School
+>>>>>>> Stashed changes
+>>>>>>> update_script
